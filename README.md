@@ -2,20 +2,20 @@
 
 
 - 🔭 Atualmente foco em projetos BackEnd usando Node.JS/Nest.JS
-- 🌱 Além do BackEnd faço projetos Front usando Ract.JS
+- 🌱 Além do BackEnd faço projetos Front usando React.JS
 - 👯 Me intereço em animes
 - 📫 Este é meu e-mail: iago.mendonca20@gmail.com
-
+<div>
 <a href="https://github.com/darkbecker4-97?tab=stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkbecker4-97&theme=github_dark&show_icons=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=darkbecker4-97&theme=github_dark&show_icons=true"/>
 </a>
+  <a href ="https://github.com/darkbecker4-97/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkbecker4-97&layout=compact&theme=github_dark">
+</div>
 <br>
-<a href="https://github.com/darkbecker4-97?tab=repositories">
+<!-- COMENTADO!!! <a href="https://github.com/darkbecker4-97?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darkbecker4-97&repo=OLX-Project-Node&theme=dark&show_icons=true"/>
-</a>
-<br>
-<a href ="https://github.com/darkbecker4-97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkbecker4-97&theme=github_dark">
-<br><br>
+</a>-->
+  
 <div style="display: inline_block">
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
   <img align="center" alt="Iago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
