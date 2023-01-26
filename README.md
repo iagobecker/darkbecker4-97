@@ -33,3 +33,6 @@
   <a href = "mailto:iago.mendonca20@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
   <a href = "https://wa.me/5555999789739?text=Ol%C3%A1+Iago%2C+vim+pelo+seu+GitHub." target"_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>
 </div>
+
+![Snake animation](https://github.com/darkbecker4-97/darkbecker4-97/blob/output/github-contribution-grid-snake.svg)  
+  
