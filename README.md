@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 - 📫 Este é meu e-mail: iago.mendonca20@gmail.com
 
-<a href="https://github.com/darkbecker4-97/github-readme-stats">
+<a href="https://github.com/darkbecker4-97?tab=stars">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkbecker4-97&theme=github_dark&show_icons=true"/>
 </a>
 <br><br>
