@@ -14,6 +14,8 @@
 <a href="https://github.com/darkbecker4-97?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darkbecker4-97&repo=OLX-Project-Node&theme=dark&show_icons=true"/>
 </a>
+<br><br>
+<a href ="https://github.com/darkbecker4-97/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkbecker4-97&theme=github_dark">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
