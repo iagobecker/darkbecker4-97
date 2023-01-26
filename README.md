@@ -3,21 +3,20 @@
 
 - 🔭 Atualmente foco em projetos BackEnd usando Node.JS/Nest.JS
 - 🌱 Além do BackEnd faço projetos Front usando Ract.JS
-- 👯 Me intereço em automações em Pyton
-- 💬 Ask me about ...
+- 👯 Me intereço em animes
 - 📫 Este é meu e-mail: iago.mendonca20@gmail.com
 
 <a href="https://github.com/darkbecker4-97?tab=stars">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkbecker4-97&theme=github_dark&show_icons=true"/>
 </a>
-<br><br>
+<br>
 <a href="https://github.com/darkbecker4-97?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darkbecker4-97&repo=OLX-Project-Node&theme=dark&show_icons=true"/>
 </a>
+<br>
+<a href ="https://github.com/darkbecker4-97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkbecker4-97&theme=github_dark">
 <br><br>
-<a href ="https://github.com/darkbecker4-97/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkbecker4-97&theme=github_dark">
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
   <img align="center" alt="Iago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
