@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Iago Becker👋
 
 
-- 🔭 Atualmente foco em projetos BackEnd usando Node.JS/Nest.JS
-- 🌱 Além do BackEnd faço projetos Front usando React.JS
-- 👯 Me intereço em animes
+- 🔭 Atualmente trabalho como Freelancer com uma equipe
+- 🌱 Estou fazendo o Back End do App 
+- 👯 Me intereço em tecnologia 
 - 📫 Este é meu e-mail: iago.mendonca20@gmail.com
 <div>
 <a href="https://github.com/darkbecker4-97?tab=stars">
