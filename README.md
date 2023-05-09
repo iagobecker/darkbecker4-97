@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como Freelancer com uma equipe
-- 🌱 Estou fazendo o Back End do App 
+- 🌱 Estou fazendo o Back End do App usando Node.js/Express/MongoDB
 - 👯 Me intereço em tecnologia 
 - 📫 Este é meu e-mail: iago.mendonca20@gmail.com
 <div>
