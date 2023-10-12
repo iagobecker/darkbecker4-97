@@ -17,7 +17,7 @@
 </a>-->
   
 <div style="display: inline_block">
-  <img align="center" alt="Iago-Js" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40murilokrugnerdev%2Fo-que-voc%25C3%25AA-precisa-saber-para-come%25C3%25A7ar-com-react-native-707c5586f3d0&psig=AOvVaw0V7_S6fOdCGhiXViF6gkh_&ust=1697199060315000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDS8qW98IEDFQAAAAAdAAAAABAW"/>
+  <img align="center" alt="Iago-Js" height="30" width="40" src="https://user-images.githubusercontent.com/83254191/274594481-e0d99d89-2529-44f6-a24a-18dda51426eb.png"/>
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
   <img align="center" alt="Iago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
