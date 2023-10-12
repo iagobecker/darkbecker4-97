@@ -17,7 +17,7 @@
 </a>-->
   
 <div style="display: inline_block">
-  <img align="center" alt="Iago-Js" height="30" width="40" src="https://user-images.githubusercontent.com/83254191/274594481-e0d99d89-2529-44f6-a24a-18dda51426eb.png"/>
+  <img align="center" alt="Iago-Js" height="30" width="40" src="https://user-images.githubusercontent.com/83254191/274595010-767bc3cb-a0b9-4281-8bfb-88d5a074b44e.png"/>
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
   <img align="center" alt="Iago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
