@@ -4,7 +4,8 @@
 - 🔭 Atualmente trabalho como Freelancer com uma equipe
 - 🌱 Estou fazendo o Back End do App usando Node.js/Typescript/Express/MongoDB
 - 👯 Me intereço em tecnologia e Games
-- 📫 Este é meu e-mail: iago.mendonca20@gmail.com
+- 📫 Este é meu e-mail: iagosbm97@gmail.com
+
 <div>
 <a href="https://github.com/darkbecker4-97?tab=stars">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=darkbecker4-97&theme=github_dark&show_icons=true"/>
